@@ -1,14 +1,26 @@
-layout_spectrum: 0.9340426
-typography_spectrum: 0.7299541
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0
-  brandStrength: 0.1477836
-  lightness: 0.3723404
-  rhythmicContrast: 0.2
+  brandStrength: 0.3106383
+  lightness: 0.6893617
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#B4926E'
+    - '#203042'
+    - '#FDD665'
+    - '#884C4A'
+    - '#FFFFF2'
+  rhythmicContrast: 0.9042553
+typography_spectrum: 0.3042553
+layout_spectrum: 0.9340426
 name: Clevelandesigns
