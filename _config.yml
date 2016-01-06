@@ -1,0 +1,14 @@
+layout_spectrum: 0.9340426
+typography_spectrum: 0.7299541
+color:
+  saturation: 0
+  brandStrength: 0.1477836
+  lightness: 0.3723404
+  rhythmicContrast: 0.2
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Clevelandesigns
